@@ -3,3 +3,4 @@ I am learning git
 I can now connect local git to remote git
 testing a new feature
 Learning how to sync remote changes to my local computer
+Feature: add model evaluation metrics
